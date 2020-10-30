@@ -2585,7 +2585,7 @@ fieldset:disabled a.btn {
 #bubble {
 	width: 25%;
 	height: auto;
-
+	max-width: 200px;
 }
 
 
